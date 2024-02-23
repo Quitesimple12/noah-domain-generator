@@ -12,3 +12,6 @@ for (let i = 0; i < pronoun.length; i++) {
     }
   }
 }
+
+//This project got denied, but when I open it in codespaces it loads in the console and works as it is supposed to. 
+//I am not sure why the console would not load.
